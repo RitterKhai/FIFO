@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "fifofull",
+					"strict" : false
+				},
+				{
+					"name" : "empty",
+					"strict" : false
+				},
+				{
+					"name" : "write",
+					"strict" : false
+				},
+				{
+					"name" : "wraddr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "wraddr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "wraddr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "wraddr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "wraddr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "read",
+					"strict" : false
+				},
+				{
+					"name" : "rdaddr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rdaddr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rdaddr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rdaddr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rdaddr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "fifowr",
+					"strict" : false
+				},
+				{
+					"name" : "fiford",
+					"strict" : false
+				},
+				{
+					"name" : "clkw",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "clkr",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

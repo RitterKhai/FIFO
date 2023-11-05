@@ -1,0 +1,39 @@
+|fifoctrl
+clkw => wraddr[0]~reg0.CLK
+clkw => wraddr[1]~reg0.CLK
+clkw => wraddr[2]~reg0.CLK
+clkw => wraddr[3]~reg0.CLK
+clkw => wraddr[4]~reg0.CLK
+clkr => rdaddr[0]~reg0.CLK
+clkr => rdaddr[1]~reg0.CLK
+clkr => rdaddr[2]~reg0.CLK
+clkr => rdaddr[3]~reg0.CLK
+clkr => rdaddr[4]~reg0.CLK
+rst_n => wraddr[0]~reg0.ACLR
+rst_n => wraddr[1]~reg0.ACLR
+rst_n => wraddr[2]~reg0.ACLR
+rst_n => wraddr[3]~reg0.ACLR
+rst_n => wraddr[4]~reg0.ACLR
+rst_n => rdaddr[0]~reg0.ACLR
+rst_n => rdaddr[1]~reg0.ACLR
+rst_n => rdaddr[2]~reg0.ACLR
+rst_n => rdaddr[3]~reg0.ACLR
+rst_n => rdaddr[4]~reg0.ACLR
+fiford => read.IN1
+fifowr => write.IN1
+fifofull << always2.DB_MAX_OUTPUT_PORT_TYPE
+empty << empty.DB_MAX_OUTPUT_PORT_TYPE
+write << write.DB_MAX_OUTPUT_PORT_TYPE
+wraddr[0] << wraddr[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+wraddr[1] << wraddr[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+wraddr[2] << wraddr[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+wraddr[3] << wraddr[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+wraddr[4] << wraddr[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+read << read.DB_MAX_OUTPUT_PORT_TYPE
+rdaddr[0] << rdaddr[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+rdaddr[1] << rdaddr[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+rdaddr[2] << rdaddr[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+rdaddr[3] << rdaddr[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+rdaddr[4] << rdaddr[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

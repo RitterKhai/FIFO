@@ -1,0 +1,65 @@
+{D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/tb_assert.sv} {1 {vlog -work work -vopt -sv {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/tb_assert.sv}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module tb_assert
+
+Top level modules:
+	tb_assert
+
+} {} {}} {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/LFSR.v} {1 {vlog -work work -vopt {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/LFSR.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module LSFR
+
+Top level modules:
+	LSFR
+
+} {} {}} {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/scrambler.v} {1 {vlog -work work -vopt {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/scrambler.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module scrambler
+
+Top level modules:
+	scrambler
+
+} {} {}} {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/RAM_bb.v} {1 {vlog -work work -vopt {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/RAM_bb.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/top_lab3.sv} {1 {vlog -work work -vopt -sv {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/top_lab3.sv}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module top_lab3
+
+Top level modules:
+	top_lab3
+
+} {} {}} {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/bcdtohex.sv} {1 {vlog -work work -vopt -sv {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/bcdtohex.sv}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module bcdtohex
+-- Compiling module BCDtoSevenSegmentTest
+
+Top level modules:
+	BCDtoSevenSegmentTest
+
+} {} {}} {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/RAM.v} {1 {vlog -work work -vopt {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/RAM.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/CLK_create.v} {1 {vlog -work work -vopt {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/CLK_create.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module CLK_create
+
+Top level modules:
+	CLK_create
+
+} {} {}} {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/fifoctrl.v} {1 {vlog -work work -vopt {D:/study/HCMUT/ky thuat so nang cao/Lab/Lab3/fifoctrl.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module fifoctrl
+
+Top level modules:
+	fifoctrl
+
+} {} {}}

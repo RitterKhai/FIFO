@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clkr'
+Slack : -2.000
+TNS   : -9.736
+
+Type  : Slow 1100mV 85C Model Setup 'clkw'
+Slack : -1.813
+TNS   : -8.644
+
+Type  : Slow 1100mV 85C Model Hold 'clkw'
+Slack : 0.375
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clkr'
+Slack : 0.376
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clkr'
+Slack : -0.394
+TNS   : -2.623
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clkw'
+Slack : -0.394
+TNS   : -2.610
+
+Type  : Slow 1100mV 0C Model Setup 'clkr'
+Slack : -1.953
+TNS   : -9.515
+
+Type  : Slow 1100mV 0C Model Setup 'clkw'
+Slack : -1.863
+TNS   : -8.886
+
+Type  : Slow 1100mV 0C Model Hold 'clkr'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clkw'
+Slack : 0.390
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clkr'
+Slack : -0.394
+TNS   : -2.929
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clkw'
+Slack : -0.394
+TNS   : -2.835
+
+Type  : Fast 1100mV 85C Model Setup 'clkr'
+Slack : -0.707
+TNS   : -3.305
+
+Type  : Fast 1100mV 85C Model Setup 'clkw'
+Slack : -0.580
+TNS   : -2.641
+
+Type  : Fast 1100mV 85C Model Hold 'clkw'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clkr'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clkw'
+Slack : -0.079
+TNS   : -0.391
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clkr'
+Slack : -0.077
+TNS   : -0.381
+
+Type  : Fast 1100mV 0C Model Setup 'clkr'
+Slack : -0.566
+TNS   : -2.693
+
+Type  : Fast 1100mV 0C Model Setup 'clkw'
+Slack : -0.525
+TNS   : -2.379
+
+Type  : Fast 1100mV 0C Model Hold 'clkr'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clkw'
+Slack : 0.172
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clkw'
+Slack : -0.079
+TNS   : -0.391
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clkr'
+Slack : -0.078
+TNS   : -0.386
+
+------------------------------------------------------------
